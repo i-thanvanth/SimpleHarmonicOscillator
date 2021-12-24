@@ -15,11 +15,12 @@ fig.canvas.manager.set_window_title('SHO')
 #set t 
 t=np.linspace(0,30,5000)
 
-#F=ma -> newton's second law
-#F=m*d^2(x)/dt^2 
-#F= -kx -> restoring force
-#x=Acos(ωt+φ) -> v=-Aωsin(ωt+φ) -> a=-Aω^2cos(ωt+φ)
-#a=-x*ω^2
+#equation for oscillator without damping
+#x=Acos(ωt+φ) -> v=-Aωsin(ωt+φ) -> a=-Aω²cos(ωt+φ) = -ω²x
+
+#equation for oscillator with damping
+#x=Ae⁻ᵈᵗcos(ωt+φ)
+
 
 plt.title(u"""Simple Harmonic Oscillator
 x(t)=Ae\u207B\u1d48\u1D57cos(\u03C9t+\u03C6)""",fontname = 'calibri')
