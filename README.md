@@ -1,7 +1,7 @@
 # SimpleHarmonicOscillator
 
 <p align="center">
-  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img3.png" >
+  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img/img3.png" >
 </p>
 
 * This program lets you simulate the output of a simple harmonic oscillator using two different scripts,
@@ -30,10 +30,10 @@
 
 ## Screenshots: ##
 <p align="center">
-  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img2.jpg" width="700">
+  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img/img2.jpg" width="700">
 </p>
 <p align="center">
-  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img.jpg" width="700" >
+  <img src="https://github.com/i-thanvanth/SimpleHarmonicOscillator/blob/master/img/img.jpg" width="700" >
 </p>
 
 
